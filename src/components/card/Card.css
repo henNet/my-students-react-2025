@@ -1,0 +1,18 @@
+.card-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+    gap: 2px;
+    flex-basis: 150px;
+    border-color: rgb(187, 187, 187);
+    border-style:dashed;
+}
+
+.btn-container{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+}
